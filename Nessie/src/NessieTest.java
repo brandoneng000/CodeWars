@@ -2,8 +2,8 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.runners.JUnit4;
 
-
 public class NessieTest {
+
     @Test
     public void testBasicTrue() {
         String n = "Your girlscout cookies are ready to ship. Your total comes to tree fiddy";
