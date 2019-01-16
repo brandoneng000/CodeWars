@@ -6,7 +6,7 @@ public class NessieTest {
 
     @Test
     public void testBasicTrue() {
-        String n = "Your girlscout cookies are ready to ship. Your total comes to tree fiddy";
+        String n = "Your girlscout cookies are ready to ship. Your total comes to tree Fiddy";
         System.out.println(n);
         assertTrue(Nessie.isLockNessMonster(n));
     }

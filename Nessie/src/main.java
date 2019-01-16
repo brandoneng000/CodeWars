@@ -3,5 +3,6 @@ public class main {
         NessieTest N = new NessieTest();
 
         N.testBasicFalse();
+        N.testBasicTrue();
     }
 }
